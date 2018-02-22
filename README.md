@@ -7,8 +7,7 @@ Also, this utilize lasso.
 
 
 ### lacking part
-This is not undefined with normalization method.
-Verification technique is not undefined.
+This is not undefined with normalization method. verification technique is not undefined.
 
 
 ### References

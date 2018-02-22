@@ -10,6 +10,11 @@ Also, this utilize lasso and sigmoid function.
 This is not undefined with normalization method. verification technique is not undefined.
 
 
+### Performance
+Performance with accuracy and auc is slightly higher.
+
+
+
 ### References
 [1] Urda, Daniel, Leonardo Franco, and José M. Jerez. "Classification of high dimensional data using LASSO ensembles." (2017).
 

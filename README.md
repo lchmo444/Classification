@@ -1,8 +1,14 @@
 # Lasso_Classification
-This is classified them into two form
+This is classified them into two form.
+
+# Main part
+This method divide into upper and lower value with euclidean norm.
+Also, this utilize lasso.
 
 
-
+# lacking part
+This is not undefined with normalization method.
+Verification technique is not undefined.
 
 
 # References

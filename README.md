@@ -1,4 +1,4 @@
-### Lasso_Classification
+### Classification
 This is classified them into two form.
 
 ### Main part

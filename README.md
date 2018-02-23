@@ -3,7 +3,6 @@ This is classified them into two form.
 
 ### Main part
 This method divide into upper and lower value with euclidean norm.
-Also, this utilize lasso and sigmoid function.
 
 
 ### lacking part

@@ -1,3 +1,5 @@
+Tikhonov regularization, Elastic net, 
+
 ### Classification
 This is classified them into two form.
 
@@ -9,8 +11,6 @@ This method divide into upper and lower value with euclidean norm.
 This is not undefined with normalization method. verification technique is not undefined.
 
 
-### Performance
-Performance with accuracy and auc is slightly higher.
 
 
 
